@@ -1,0 +1,20 @@
+C:\Users\Pavel\source\repos\sistem\sistem\obj\Debug\sistem.csprojAssemblyReference.cache
+C:\Users\Pavel\source\repos\sistem\sistem\obj\Debug\sistem.Properties.Resources.resources
+C:\Users\Pavel\source\repos\sistem\sistem\obj\Debug\sistem.csproj.GenerateResource.cache
+C:\Users\Pavel\source\repos\sistem\sistem\obj\Debug\sistem.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\sistem\sistem\bin\Debug\sistem.exe.config
+C:\Users\Pavel\source\repos\sistem\sistem\bin\Debug\sistem.exe
+C:\Users\Pavel\source\repos\sistem\sistem\bin\Debug\sistem.pdb
+C:\Users\Pavel\source\repos\sistem\sistem\obj\Debug\sistem.exe
+C:\Users\Pavel\source\repos\sistem\sistem\obj\Debug\sistem.pdb
+C:\Users\Pavel\source\repos\sistem\sistem\obj\Debug\sistem.Form1.resources
+C:\Users\Pavel\source\repos\sistem 2\sistem\bin\Debug\sistem.exe.config
+C:\Users\Pavel\source\repos\sistem 2\sistem\bin\Debug\sistem.exe
+C:\Users\Pavel\source\repos\sistem 2\sistem\bin\Debug\sistem.pdb
+C:\Users\Pavel\source\repos\sistem 2\sistem\obj\Debug\sistem.csprojAssemblyReference.cache
+C:\Users\Pavel\source\repos\sistem 2\sistem\obj\Debug\sistem.Form1.resources
+C:\Users\Pavel\source\repos\sistem 2\sistem\obj\Debug\sistem.Properties.Resources.resources
+C:\Users\Pavel\source\repos\sistem 2\sistem\obj\Debug\sistem.csproj.GenerateResource.cache
+C:\Users\Pavel\source\repos\sistem 2\sistem\obj\Debug\sistem.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\sistem 2\sistem\obj\Debug\sistem.exe
+C:\Users\Pavel\source\repos\sistem 2\sistem\obj\Debug\sistem.pdb
